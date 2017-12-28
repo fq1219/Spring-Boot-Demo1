@@ -141,6 +141,7 @@ public class DynamicDatasourceConfig {
         conf.setLogicDeleteValue("-1");
         conf.setLogicNotDeleteValue("1");
         conf.setIdType(2);
+
         return conf;
     }
 
